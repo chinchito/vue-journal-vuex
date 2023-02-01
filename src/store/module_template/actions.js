@@ -1,0 +1,1 @@
+// export const myAction = async({commit}) => {} // LLAMA A UNA MUTATION
